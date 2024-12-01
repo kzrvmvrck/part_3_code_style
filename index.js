@@ -1,1 +1,1 @@
-console.log('Happy developing ✨')
+alert("test alert");
